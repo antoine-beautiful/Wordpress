@@ -17,6 +17,6 @@ define('WP_USE_THEMES', true);
 require('./wp-blog-header.php');
 
 # This is a local branch test
-# And another one
+# Let's try if there's a conflict
 
 ?>
