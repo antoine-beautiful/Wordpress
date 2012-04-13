@@ -16,6 +16,8 @@ define('WP_USE_THEMES', true);
 /** Loads the WordPress Environment and Template */
 require('./wp-blog-header.php');
 
+# Hello World
+
 # This is a local branch test
 # And another one to test
 # Let's try if there's a conflict
