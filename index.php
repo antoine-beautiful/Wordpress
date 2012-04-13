@@ -14,8 +14,6 @@
 define('WP_USE_THEMES', true);
 
 
-# Hello World
-
 # This is a local branch test
 # And another one to test
 # Let's try if there's a conflict
