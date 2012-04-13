@@ -18,5 +18,6 @@ require('./wp-blog-header.php');
 
 # This is a local branch test
 # And another one to test
+# Let's try if there's a conflict
 
 ?>
